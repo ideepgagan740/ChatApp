@@ -1,0 +1,13 @@
+.ChatBox{
+    height: 400px;
+    width: 833px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    left: 16px;
+}
+.chatBoxMsgSendPart{
+    position: absolute ;
+    bottom: 0px;
+    display: flex;
+}
